@@ -15,8 +15,7 @@
 ---
 
 ### 💫 My goals:
-- Complete CS50 course successfully
-- Learn Python for data analysis
+- Learn data analysis
 - Start my own portfolio with real projects
 
 ---
