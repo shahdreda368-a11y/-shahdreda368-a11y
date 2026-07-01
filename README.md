@@ -10,7 +10,7 @@
 ### 🧠 What I’m learning now:
 - C language (CS50)
 - Git & GitHub basics
-- Data analysis fundamentals
+- Data analysis
 
 ---
 
